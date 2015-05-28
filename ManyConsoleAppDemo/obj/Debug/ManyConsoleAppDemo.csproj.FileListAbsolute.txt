@@ -1,0 +1,1 @@
+c:\users\spasodi\documents\visual studio 2013\Projects\ManyConsoleAppDemo\ManyConsoleAppDemo\bin\Debug\ManyConsoleAppDemo.exe.config
